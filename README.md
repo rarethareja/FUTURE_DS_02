@@ -55,19 +55,19 @@ FUTURE_DS_02/
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_screenshots/dashboard_overview.png)
 
 ### Customer Segmentation
 
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation](dashboard_screenshots/customer_segmentation.png)
 
 ### Customer Lifetime Analysis
 
-![Customer Lifetime](images/customer_lifetime.png)
+![Customer Lifetime](dashboard_screenshots/customer_lifetime.png)
 
 ### Business Insights
 
-![Business Insights](images/business_insights.png)
+![Business Insights](dashboard_screenshots/business_insights.png)
 
 ---
 
